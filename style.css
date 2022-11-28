@@ -1,0 +1,17 @@
+nav{
+    background-color: grey;
+    position: fixed; top: 0;
+    width: 100%;
+    line-height: 10px;
+}    
+
+ul{font-size: 30px; list-style-position: inside;
+}
+li{margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+a{color: rgb(126, 114, 194);
+    display: block;
+}
